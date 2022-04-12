@@ -1,0 +1,6 @@
+framework module Pods_BNSFVVIPSupport_BNSFVVIPSupportUITests {
+  umbrella header "Pods-BNSFVVIPSupport-BNSFVVIPSupportUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
